@@ -1,6 +1,12 @@
 # latihan_animated_container
 
-A new Flutter project.
+Latihan cara membuat animated container yang terdiri dari : 
+ - 3 Kolom 
+   Dengan perbandingan flexi 1 : 2 : 1
+ - 1 baris
+   Dengan perbandingan flexi 1 : 1 : 1
+ 
+ Dengan memiliki warna yang berbeda-beda
 
 ## Getting Started
 
