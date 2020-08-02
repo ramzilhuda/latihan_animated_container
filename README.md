@@ -8,8 +8,7 @@ Latihan cara membuat animated container yang terdiri dari :
  
  Dengan memiliki warna yang berbeda-beda
  Tampilan app : 
- ![Screenshot_2020-08-02-07-07-27-51_581b10a7e652d149388481822306abe4 1](https://user-images.githubusercontent.com/60292040/89113455-9602b280-d49b-11ea-922a-0c48a726d086.png)
-
+ 
 
 ## Getting Started
 
